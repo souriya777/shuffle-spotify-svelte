@@ -1,1 +1,3 @@
-# shuffle-spotify-svelte
+# DEMO
+
+https://shuffle-spotify-svelte.vercel.app/
